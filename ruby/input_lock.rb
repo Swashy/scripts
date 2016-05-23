@@ -59,7 +59,7 @@ class InputLock
 	SIGNATURE = [
 		'input_lock',
 		'Mahlon E. Smith',
-		'0.1',
+		'0.2',
 		'BSD',
 		'Reject all text input, to avoid accidental public stupidity.',
 		'',
